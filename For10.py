@@ -8,6 +8,5 @@ def main(list1):
     """
     x=[]
     for a in list1:    
-        x.title()
     return x
 print(main(['farrux','azim']))

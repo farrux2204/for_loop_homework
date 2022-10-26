@@ -7,8 +7,8 @@ def main(N):
         int: return  answer
     """
     y=0
-    for a in range (1,N+1):
+    for a in range(N):
         if a%2==1:
             y+=a 
     return y
-print(main(7)) 
+print(main(3)) 

@@ -7,4 +7,8 @@ def main(A,B):
     Returns:
         list: return  answer
     """
-    return
+    x=[]
+    for a in range (A,B+1):
+        x.append(a)
+    return x
+print(main(1,5))

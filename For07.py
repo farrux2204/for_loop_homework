@@ -11,4 +11,4 @@ def main(N):
         if a%2==1:
             y+=a 
     return y
-print(main(7))
+print(main(7)) 

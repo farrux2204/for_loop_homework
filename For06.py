@@ -11,5 +11,5 @@ def main(A,B):
     for a in range (A,B+1):
        y+=a 
     return y
-print(main(2,5))
-    
+print(main(2,5)) 
+      
